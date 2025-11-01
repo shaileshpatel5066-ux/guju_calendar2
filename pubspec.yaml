@@ -1,4 +1,4 @@
-name: guju_calendar2
+name: 
 description: A new Flutter application.
 
 environment:
@@ -25,5 +25,4 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/
+

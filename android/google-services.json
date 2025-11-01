@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998300832625",
+    "project_id": "calendar-afe1b",
+    "storage_bucket": "calendar-afe1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998300832625:android:7a5b6bbaab29b926135cd0",
+        "android_client_info": {
+          "package_name": "com.andaria.calendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJOqLu_JY9RsE92mKCsjXzhM7cA8vNF6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
